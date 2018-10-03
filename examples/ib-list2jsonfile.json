@@ -14,7 +14,7 @@
                 {
                     "ПутьКОбработке":"$thisRoot\\ктв_СохранениеДанныхВФайлJSON.epf",
                     "Параметры":{
-                        "ПутьКФайлу":"$thisRoot\\..\\..\\examples\\ib-list.json"
+                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\ib-list.json"
                     }
                 },
                 {
