@@ -10,4 +10,15 @@
   </synonym>
   <comment></comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="a0984a37-b966-40f6-adcf-5427a0f759d6"/>
+  <defaultForm>ExternalDataProcessor.ктв_ЧтениеСкобкоФайла.Form.Форма</defaultForm>
+  <forms uuid="9243b42e-7f43-4eab-8a55-fa29f2060cbf">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalDataProcessor>
