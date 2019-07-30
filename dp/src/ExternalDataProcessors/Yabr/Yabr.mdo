@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f8b4f8f5-653c-4f68-bd0b-33da201b117f">
+  <producedTypes>
+    <objectType typeId="6c313d1d-544c-4d61-b137-d25992641aea" valueTypeId="1a5c456a-0141-4cb6-96ab-1ced6040637a"/>
+  </producedTypes>
+  <name>Yabr</name>
+  <synonym>
+    <key>ru</key>
+    <value>Yabr</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="07db0343-e388-4ef7-abb4-955e2af992fe"/>
+  <defaultForm>ExternalDataProcessor.Yabr.Form.Форма</defaultForm>
+  <forms uuid="edc8922d-430a-438f-a18d-c5aa44418cda">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
