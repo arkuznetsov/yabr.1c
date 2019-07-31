@@ -3,10 +3,10 @@
   <producedTypes>
     <objectType typeId="6c313d1d-544c-4d61-b137-d25992641aea" valueTypeId="1a5c456a-0141-4cb6-96ab-1ced6040637a"/>
   </producedTypes>
-  <name>Yabr</name>
+  <name>yabr</name>
   <synonym>
     <key>ru</key>
-    <value>Yabr</value>
+    <value>yabr</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="07db0343-e388-4ef7-abb4-955e2af992fe"/>
   <defaultForm>ExternalDataProcessor.Yabr.Form.Форма</defaultForm>

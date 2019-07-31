@@ -111,7 +111,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessor.Yabr</types>
+      <types>ExternalDataProcessor.yabr</types>
     </valueType>
     <view>
       <common>true</common>
