@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d3f183ab-d09d-448e-87fb-0592ef8ac5b8">
+  <producedTypes>
+    <objectType typeId="01250721-28a4-48fd-8401-c0d2bd4fc012" valueTypeId="3a36d56c-d1b8-4c6b-b249-2ddd74fb2d0a"/>
+  </producedTypes>
+  <name>ктв_ЧтениеОтчетаПоВерсиямХранилища</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработчик чтения отчета по версиям хранилища конфигурации 1С</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="3cac8ce7-ae0f-41d2-a671-32e0e210cef1"/>
+</mdclass:ExternalDataProcessor>
