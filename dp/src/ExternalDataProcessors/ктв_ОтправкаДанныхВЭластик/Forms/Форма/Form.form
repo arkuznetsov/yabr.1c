@@ -370,7 +370,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ктв_ОбработчикЧтенияОтправкаЖРВЭластик</types>
+      <types>ExternalDataProcessorObject.ктв_ОтправкаДанныхВЭластик</types>
     </valueType>
     <view>
       <common>true</common>
