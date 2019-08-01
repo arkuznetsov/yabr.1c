@@ -313,7 +313,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessor.ктв_ЧтениеСкобкоФайла</types>
+      <types>ExternalDataProcessor.ЧтениеСкобкоФайла</types>
     </valueType>
     <view>
       <common>true</common>

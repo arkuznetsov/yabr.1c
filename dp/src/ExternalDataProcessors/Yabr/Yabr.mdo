@@ -9,7 +9,7 @@
     <value>yabr</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="07db0343-e388-4ef7-abb4-955e2af992fe"/>
-  <defaultForm>ExternalDataProcessor.Yabr.Form.Форма</defaultForm>
+  <defaultForm>ExternalDataProcessor.yabr.Form.Форма</defaultForm>
   <forms uuid="edc8922d-430a-438f-a18d-c5aa44418cda">
     <name>Форма</name>
     <synonym>

@@ -3,7 +3,7 @@
   <producedTypes>
     <objectType typeId="01250721-28a4-48fd-8401-c0d2bd4fc012" valueTypeId="3a36d56c-d1b8-4c6b-b249-2ddd74fb2d0a"/>
   </producedTypes>
-  <name>ктв_ЧтениеОтчетаПоВерсиямХранилища</name>
+  <name>ЧтениеОтчетаПоВерсиямХранилища</name>
   <synonym>
     <key>ru</key>
     <value>Обработчик чтения отчета по версиям хранилища конфигурации 1С</value>

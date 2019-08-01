@@ -3,7 +3,7 @@
   <producedTypes>
     <objectType typeId="d6067d50-eb64-4fae-8360-f415d654e4a6" valueTypeId="5c38bdfd-f4b4-4a6a-8919-a5766cd079ee"/>
   </producedTypes>
-  <name>ктв_МенеджерОбработкиДанных</name>
+  <name>МенеджерОбработкиДанных</name>
   <synonym>
     <key>ru</key>
     <value>Менеджер обработки данных</value>

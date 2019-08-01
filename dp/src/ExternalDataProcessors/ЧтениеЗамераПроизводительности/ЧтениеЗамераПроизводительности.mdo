@@ -3,7 +3,7 @@
   <producedTypes>
     <objectType typeId="8561934b-f178-4727-8d7e-9cbfca4449ce" valueTypeId="56e55210-9ca2-4a72-a0b2-c7869394f988"/>
   </producedTypes>
-  <name>ктв_ЧтениеЗамераПроизводительности</name>
+  <name>ЧтениеЗамераПроизводительности</name>
   <synonym>
     <key>ru</key>
     <value>Чтение замера производительности</value>
