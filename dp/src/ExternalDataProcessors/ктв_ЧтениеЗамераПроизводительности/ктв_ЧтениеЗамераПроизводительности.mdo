@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4ee7e84b-3277-4212-8153-70529c0d2005">
+  <producedTypes>
+    <objectType typeId="8561934b-f178-4727-8d7e-9cbfca4449ce" valueTypeId="56e55210-9ca2-4a72-a0b2-c7869394f988"/>
+  </producedTypes>
+  <name>ктв_ЧтениеЗамераПроизводительности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Чтение замера производительности</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e6c4be1c-2f77-4875-9ede-956899ac41d3"/>
+</mdclass:ExternalDataProcessor>
