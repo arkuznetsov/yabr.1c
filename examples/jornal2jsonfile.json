@@ -50,13 +50,7 @@
 							{
 								"ПутьКОбработке":"$thisRoot\\ВыводДанныхВФайлJSON.epf",
 								"Параметры":{
-									"ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\jornal2console-result.json",
-									"ОбрабатыватьКакМассив": true
-								}
-							},
-							{
-								"ПутьКОбработке":"$thisRoot\\ВыводДанныхВКонсоль.epf",
-								"Параметры":{
+									"ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\jornal2jsonfile-result.json",
 									"ОбрабатыватьКакМассив": true
 								}
 							}

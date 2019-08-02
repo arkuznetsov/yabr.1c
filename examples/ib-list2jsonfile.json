@@ -16,7 +16,7 @@
                 {
                     "ПутьКОбработке":"$thisRoot\\ВыводДанныхВФайлJSON.epf",
                     "Параметры":{
-                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\ib-list.json"
+                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\ib-list2jsonfile-result.json"
                     }
                 },
                 {

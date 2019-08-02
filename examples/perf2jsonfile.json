@@ -15,11 +15,8 @@
                 {
                     "ПутьКОбработке":"$thisRoot\\ВыводДанныхВФайлJSON.epf",
                     "Параметры":{
-                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\perf-data.json"
+                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\perf2jsonfile-result.json"
                     }
-                },
-                {
-                    "ПутьКОбработке":"$thisRoot\\ВыводДанныхВКонсоль.epf"
                 }
             ]
         }

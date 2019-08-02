@@ -16,11 +16,8 @@
                 {
                     "ПутьКОбработке":"$thisRoot\\ВыводДанныхВФайлJSON.epf",
                     "Параметры":{
-                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\jornal-dic.json"
+                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\jornal-dic2jsonfile-result.json"
                     }
-                },
-                {
-                    "ПутьКОбработке":"$thisRoot\\ВыводДанныхВКонсоль.epf"
                 }
             ]
         }

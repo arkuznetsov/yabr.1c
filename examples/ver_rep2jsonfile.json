@@ -15,11 +15,8 @@
                 {
                     "ПутьКОбработке":"$thisRoot\\ВыводДанныхВФайлJSON.epf",
                     "Параметры":{
-                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\ver-rep.json"
+                        "ПутьКФайлу":"$thisRoot\\..\\..\\testdata\\ver-rep2jsonfile-result.json"
                     }
-                },
-                {
-                    "ПутьКОбработке":"$thisRoot\\ВыводДанныхВКонсоль.epf"
                 }
             ]
         }
