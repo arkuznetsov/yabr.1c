@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4ee7e84b-3277-4212-8153-70529c0d2005">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="764993f1-2da9-409a-a2cb-4d054d921022">
   <producedTypes>
-    <objectType typeId="8561934b-f178-4727-8d7e-9cbfca4449ce" valueTypeId="56e55210-9ca2-4a72-a0b2-c7869394f988"/>
+    <objectType typeId="c7554d5a-da5a-4162-a5ec-f602795c18c8" valueTypeId="863507b7-d42f-497a-a6d8-0b18f1ddbb04"/>
   </producedTypes>
   <name>ЧтениеЗамераПроизводительности</name>
   <synonym>

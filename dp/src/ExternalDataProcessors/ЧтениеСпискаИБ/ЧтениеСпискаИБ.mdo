@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3f2ac622-c550-4ae0-8e46-e4df81b7534e">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4e1e2000-413c-44ca-b274-172dacd0fc47">
   <producedTypes>
-    <objectType typeId="505eda56-d463-4661-8928-56787bac42d0" valueTypeId="59e2a93d-9e3e-441f-822c-f520ce0b0667"/>
+    <objectType typeId="79818542-a294-4790-b114-b6788047ce30" valueTypeId="eff8842a-e85f-4939-b9d6-5e0d1ce4fcf9"/>
   </producedTypes>
   <name>ЧтениеСпискаИБ</name>
   <synonym>

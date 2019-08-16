@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f5b0b44d-b077-40d1-a7ed-50a2392570ed">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="582896f3-aa48-4b02-8691-e8764df5cd09">
   <producedTypes>
-    <objectType typeId="52a7b388-a10d-4391-95bd-7dd294b0c18c" valueTypeId="3add4996-2a86-43c3-9d66-f0558dd57190"/>
+    <objectType typeId="81daa81f-8cee-4291-9a5b-e5e7169906c8" valueTypeId="e03fc5cd-51f8-4c1a-b396-7bb97b11b455"/>
   </producedTypes>
   <name>ЧтениеСкобкоФайла</name>
   <synonym>

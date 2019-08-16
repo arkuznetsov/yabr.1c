@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3f2ac622-c550-4ae0-8e46-e4df81b7534e">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="abff4a0e-c667-4578-9098-0fc67b620dc1">
   <producedTypes>
-    <objectType typeId="505eda56-d463-4661-8928-56787bac42d0" valueTypeId="59e2a93d-9e3e-441f-822c-f520ce0b0667"/>
+    <objectType typeId="7ab7ff66-1233-4094-adf9-3b997547fb43" valueTypeId="a41829ed-7514-4c05-8f2b-2b76dfa54e8d"/>
   </producedTypes>
   <name>ВыводДанныхВФайлJSON</name>
   <synonym>

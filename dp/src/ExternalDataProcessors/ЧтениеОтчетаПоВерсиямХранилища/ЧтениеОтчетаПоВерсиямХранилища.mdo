@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d3f183ab-d09d-448e-87fb-0592ef8ac5b8">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f6dca973-5785-4fbd-8515-a62b03fb382a">
   <producedTypes>
-    <objectType typeId="01250721-28a4-48fd-8401-c0d2bd4fc012" valueTypeId="3a36d56c-d1b8-4c6b-b249-2ddd74fb2d0a"/>
+    <objectType typeId="0e6b9c74-ac21-463a-a754-8adb710fde3b" valueTypeId="729f795b-d3b5-4e6e-85a6-3fad01647408"/>
   </producedTypes>
   <name>ЧтениеОтчетаПоВерсиямХранилища</name>
   <synonym>

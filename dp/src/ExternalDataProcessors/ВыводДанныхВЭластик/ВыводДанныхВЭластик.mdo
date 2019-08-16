@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3f2ac622-c550-4ae0-8e46-e4df81b7534e">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16671814-d89a-4ecf-8007-a288fa73dfbf">
   <producedTypes>
-    <objectType typeId="505eda56-d463-4661-8928-56787bac42d0" valueTypeId="59e2a93d-9e3e-441f-822c-f520ce0b0667"/>
+    <objectType typeId="1d039749-bd7c-47ad-9264-2df140b47c4d" valueTypeId="c9e91dfc-f02a-4d19-ae2a-34965a3bccc5"/>
   </producedTypes>
   <name>ВыводДанныхВЭластик</name>
   <synonym>

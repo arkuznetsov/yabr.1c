@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3f2ac622-c550-4ae0-8e46-e4df81b7534e">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c90ae4ba-fc02-42ee-8a4d-302f769c1eab">
   <producedTypes>
-    <objectType typeId="505eda56-d463-4661-8928-56787bac42d0" valueTypeId="59e2a93d-9e3e-441f-822c-f520ce0b0667"/>
+    <objectType typeId="e7f791a8-6950-4a9d-b8d2-0d6487c75361" valueTypeId="e98ef32b-cbb0-41eb-85be-5c574a90b7e7"/>
   </producedTypes>
   <name>ВыводДанныхВКонсоль</name>
   <synonym>

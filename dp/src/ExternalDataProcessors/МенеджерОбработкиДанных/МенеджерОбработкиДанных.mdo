@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b729eef0-3065-418c-a156-f09be4c96ea9">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e30336f5-f11c-44c0-99ba-ce9fe96fbb24">
   <producedTypes>
-    <objectType typeId="d6067d50-eb64-4fae-8360-f415d654e4a6" valueTypeId="5c38bdfd-f4b4-4a6a-8919-a5766cd079ee"/>
+    <objectType typeId="ff93e5b6-e5f0-4d78-a5ef-940a66a1a1d5" valueTypeId="5ca58986-e9cd-4d41-86fe-059a88ab551e"/>
   </producedTypes>
   <name>МенеджерОбработкиДанных</name>
   <synonym>

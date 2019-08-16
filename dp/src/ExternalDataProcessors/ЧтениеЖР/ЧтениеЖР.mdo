@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3f2ac622-c550-4ae0-8e46-e4df81b7534e">
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ac450cfd-488a-43ea-8c46-a74a4380a8fb">
   <producedTypes>
-    <objectType typeId="505eda56-d463-4661-8928-56787bac42d0" valueTypeId="59e2a93d-9e3e-441f-822c-f520ce0b0667"/>
+    <objectType typeId="f5d816e4-ac1d-4d4e-9b99-d20bcd47b895" valueTypeId="77bd1c79-9e6e-49ff-8394-9a0dabe2fc94"/>
   </producedTypes>
   <name>ЧтениеЖР</name>
   <synonym>
