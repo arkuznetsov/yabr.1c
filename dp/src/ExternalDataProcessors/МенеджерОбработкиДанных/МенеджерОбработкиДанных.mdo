@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e30336f5-f11c-44c0-99ba-ce9fe96fbb24">
+  <producedTypes>
+    <objectType typeId="ff93e5b6-e5f0-4d78-a5ef-940a66a1a1d5" valueTypeId="5ca58986-e9cd-4d41-86fe-059a88ab551e"/>
+  </producedTypes>
+  <name>МенеджерОбработкиДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Менеджер обработки данных</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="34ebd064-a4ee-4c3b-96e4-af3348e16690"/>
+  <templates uuid="630be035-a450-46d5-8704-f881e1809c05">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

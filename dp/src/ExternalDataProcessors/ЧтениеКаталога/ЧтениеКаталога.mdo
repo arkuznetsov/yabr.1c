@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cf6b614e-b497-40dc-b8cd-4566abfe54a2">
+  <producedTypes>
+    <objectType typeId="8f119217-4fc5-4b94-a42e-019224c7e39c" valueTypeId="3e706035-4fd2-448f-9787-b5691a1fe94b"/>
+  </producedTypes>
+  <name>ЧтениеКаталога</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработчик чтения каталога файлов</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="97b4e285-2d55-4891-a9b8-8435ca757edc"/>
+  <templates uuid="173c4bb8-04eb-4ec4-8dcf-38c3e3938a3d">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

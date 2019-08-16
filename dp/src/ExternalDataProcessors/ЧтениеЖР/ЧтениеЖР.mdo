@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ac450cfd-488a-43ea-8c46-a74a4380a8fb">
+  <producedTypes>
+    <objectType typeId="f5d816e4-ac1d-4d4e-9b99-d20bcd47b895" valueTypeId="77bd1c79-9e6e-49ff-8394-9a0dabe2fc94"/>
+  </producedTypes>
+  <name>ЧтениеЖР</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработчик чтения журнала регистрации 1С (текстовый формат)</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="0cc6ef30-6d69-49e8-b285-39a141de5358"/>
+  <templates uuid="a7f8c984-79fc-41eb-9188-b7c84dfd1336">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

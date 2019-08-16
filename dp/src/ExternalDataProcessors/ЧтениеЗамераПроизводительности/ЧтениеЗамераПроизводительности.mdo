@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="764993f1-2da9-409a-a2cb-4d054d921022">
+  <producedTypes>
+    <objectType typeId="c7554d5a-da5a-4162-a5ec-f602795c18c8" valueTypeId="863507b7-d42f-497a-a6d8-0b18f1ddbb04"/>
+  </producedTypes>
+  <name>ЧтениеЗамераПроизводительности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Чтение замера производительности</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e6c4be1c-2f77-4875-9ede-956899ac41d3"/>
+  <templates uuid="be5d86b7-c235-479f-ad4e-c13369a52f17">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

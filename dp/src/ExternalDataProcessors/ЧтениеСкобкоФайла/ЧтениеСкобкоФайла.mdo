@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="582896f3-aa48-4b02-8691-e8764df5cd09">
+  <producedTypes>
+    <objectType typeId="81daa81f-8cee-4291-9a5b-e5e7169906c8" valueTypeId="e03fc5cd-51f8-4c1a-b396-7bb97b11b455"/>
+  </producedTypes>
+  <name>ЧтениеСкобкоФайла</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработчик чтения файла в скобочном формате 1С</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="a0984a37-b966-40f6-adcf-5427a0f759d6"/>
+  <defaultForm>ExternalDataProcessor.ЧтениеСкобкоФайла.Form.Форма</defaultForm>
+  <forms uuid="9243b42e-7f43-4eab-8a55-fa29f2060cbf">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="c340e64d-744f-40eb-be83-cd4127b145b3">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

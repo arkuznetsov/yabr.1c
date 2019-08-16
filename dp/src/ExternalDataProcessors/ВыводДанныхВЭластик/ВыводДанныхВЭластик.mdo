@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16671814-d89a-4ecf-8007-a288fa73dfbf">
+  <producedTypes>
+    <objectType typeId="1d039749-bd7c-47ad-9264-2df140b47c4d" valueTypeId="c9e91dfc-f02a-4d19-ae2a-34965a3bccc5"/>
+  </producedTypes>
+  <name>ВыводДанныхВЭластик</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработчик отправки данных в elastic</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="0cc6ef30-6d69-49e8-b285-39a141de5358"/>
+  <templates uuid="58c394fb-4fde-4023-ba62-6bb2892da870">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>
