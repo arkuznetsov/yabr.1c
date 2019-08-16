@@ -10,4 +10,12 @@
   </synonym>
   <comment></comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="0cc6ef30-6d69-49e8-b285-39a141de5358"/>
+  <templates uuid="2bd78270-70b6-4116-a312-6edcec6709ce">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
