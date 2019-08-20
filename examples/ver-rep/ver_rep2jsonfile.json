@@ -1,7 +1,7 @@
 {
     "ПутьКОбработке":"$thisRoot\\ЧтениеСкобкофайла.epf",
     "Параметры":{
-        "ПутьКФайлу":"$thisRoot\\..\\..\\examples\\CR_versions_small.mxl",
+        "ПутьКФайлу":"$thisRoot\\..\\..\\examples\\ver-rep\\CR_versions_small.mxl",
         "УровниЗаписей":[4]
     },
     "Обработчики":[
