@@ -18,4 +18,36 @@
     </synonym>
     <templateType>TextDocument</templateType>
   </templates>
+  <templates uuid="6d1d932b-ac7e-4408-8963-0c83abdf4e10">
+    <name>КолонкиЖР</name>
+    <synonym>
+      <key>ru</key>
+      <value>Колонки журнала регистрации</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="c50c4dc5-82fe-4ea1-9657-a6117bb40977">
+    <name>УровниЖР</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уровни событий журнала регистрации</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="12d8e95e-d29b-41e1-b303-295cc69314c5">
+    <name>СтатусыТранзакцийЖР</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статусы транзакций журнала регистрации</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+  <templates uuid="ced19dcd-6cef-4b40-a3fa-106eaac156a6">
+    <name>СобытияЖР</name>
+    <synonym>
+      <key>ru</key>
+      <value>События журнала регистрации</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
