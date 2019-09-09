@@ -9,4 +9,12 @@
     <value>Поиск настроек кластера</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="860ecadd-a5d6-417c-9cfb-f5a06454e8b1"/>
+  <templates uuid="a17e195b-ae17-4069-9ece-d29ae97fdcee">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
