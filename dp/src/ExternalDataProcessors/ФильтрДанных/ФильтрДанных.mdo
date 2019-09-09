@@ -9,4 +9,12 @@
     <value>Фильтр данных</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="602acc8d-1013-4c3d-b759-66ce3322b30e"/>
+  <templates uuid="a269c933-7758-42ea-a95d-b6c6c899368d">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
