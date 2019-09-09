@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0135e53-f942-4650-a313-494276cb5c5b">
+  <producedTypes>
+    <objectType typeId="22c9b822-a91b-4fa2-9ea6-27fe5853b28a" valueTypeId="fb58ffa0-6f1b-4d23-830f-4ce8aaed1a88"/>
+  </producedTypes>
+  <name>ФильтрДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Фильтр данных</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="602acc8d-1013-4c3d-b759-66ce3322b30e"/>
+  <templates uuid="a269c933-7758-42ea-a95d-b6c6c899368d">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

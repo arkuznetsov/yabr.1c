@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5ab34027-478b-4764-8db5-93be2aebf507">
+  <producedTypes>
+    <objectType typeId="9f05d2d4-fdc1-45aa-b615-14d3aaff6cfd" valueTypeId="0ee432ce-a7fb-4032-b072-88559eb68b65"/>
+  </producedTypes>
+  <name>Логгер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Логгер</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="c197e82c-8aa3-429c-8cee-8e572ec36fb3"/>
+  <templates uuid="e89adfbe-703d-4cb8-8122-6259e2423efb">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="57d04ebd-962b-4732-b559-9f4c8d9e6d49">
+  <producedTypes>
+    <objectType typeId="6bbfc1de-2685-4d0f-9c1b-a94a262af56c" valueTypeId="2bf9c5a9-56c7-4437-b671-11c59d87b6c5"/>
+  </producedTypes>
+  <name>ПоискНастроекКластера</name>
+  <synonym>
+    <key>ru</key>
+    <value>Поиск настроек кластера</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="860ecadd-a5d6-417c-9cfb-f5a06454e8b1"/>
+  <templates uuid="a17e195b-ae17-4069-9ece-d29ae97fdcee">
+    <name>ВерсияОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия обработки</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>
